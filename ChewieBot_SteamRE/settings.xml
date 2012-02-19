@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<ListOfCommands>
+  <Command>
+    <ChatSteamID></ChatSteamID>
+    <ChatCommand>!kick</ChatCommand>
+    <CommandType>URL</CommandType>
+    <URL>http://www.google.com</URL>
+  </Command>
+  <Command>
+    <ChatSteamID></ChatSteamID>
+    <ChatCommand>!pizza</ChatCommand>
+    <CommandType>Chat</CommandType>
+    <ChatReply>i like pepperoni pizza</ChatReply>
+  </Command>
+</ListOfCommands>
